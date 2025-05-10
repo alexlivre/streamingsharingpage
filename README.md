@@ -18,7 +18,7 @@ O **Streaming Sharing Page** é uma Landing Page pronta, projetada para facilita
 
   
 
-![enter image description here](https://i.ibb.co/3mC6n2xz/PAGE-Screenshot-650.png)
+![enter image description here](https://i.ibb.co/4nJscNGj/Screenshot-658.png)
 
   
 
