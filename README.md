@@ -66,11 +66,13 @@ O **Streaming Sharing Page** é uma Landing Page pronta, projetada para facilita
 
 3.  **Adicione, edite, delete, duplique e organize** suas assinaturas usando a tabela intuitiva.
 
-4.  **Gere e baixe o `script.js` atualizado**.
+4.  **Gere e baixe o `script_updated.js` atualizado**.
 
-5.  **Substitua o arquivo `script.js` na pasta do seu site** pelo novo arquivo baixado.
+5.  **Renomeei o arquivo `script_updated.js` para `script.js`**.
+   
+6.  **Substitua o arquivo `script.js` na pasta do seu site** pelo novo arquivo baixado.
 
-6. Pronto! **Sua landing page mostrará a lista atualizada automaticamente.**
+7. Pronto! **Sua landing page mostrará a lista atualizada automaticamente.**
 
   
 
